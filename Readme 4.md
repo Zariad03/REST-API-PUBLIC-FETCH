@@ -1,0 +1,5 @@
+Module 4 Assignment 1: REST API Public Fetch
+
+For this assignment, I created a Python application that uses the Fetch API to retrieve public vehicle information from the NHTSA website. I used Flask to display the information on a webpage and JavaScript to request the data from the external API. I also added a filter so the page only displays records with the GroupName “Active Safety System.”
+
+One thing that surprised me was how the application could retrieve information from another website without manually entering the data. I also learned that the loading and error messages are important because an API request may take time or fail. As I worked through the code, I became more comfortable with JSON data, asynchronous functions, and filtering information. I would like to learn more about connecting multiple APIs and handling larger amounts of data in future projects.
